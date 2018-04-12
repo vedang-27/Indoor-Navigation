@@ -1,0 +1,469 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "man_made": "beacon",
+                "level": "0",
+                "ref": "8",
+                "uid": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48045114705,
+                    25.10095003662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "midpt",
+                "ref": "13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48098982518,
+                    25.10079053581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "man_made": "beacon",
+                "level": "0",
+                "ref": "10",
+                "uid": "0xf262d72a1aea33ddbed4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48057297344,
+                    25.10069217687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "midpt",
+                "ref": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48120999336,
+                    25.10094471993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "man_made": "beacon",
+                "level": "0",
+                "ref": "4",
+                "uid": "0x9ab4918a11306ced9a42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48108376361,
+                    25.10094206158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "midpt",
+                "ref": "9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48050839077,
+                    25.10081446095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "name": "room 3",
+                "refpt": "9"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.48052186282,
+                        25.10085167216
+                    ],
+                    [
+                        72.48060086141,
+                        25.10070679780
+                    ],
+                    [
+                        72.48077259258,
+                        25.10084901946
+                    ],
+                    [
+                        72.48052186282,
+                        25.10085167216
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "name": "room 4",
+                "refpt": "13"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.48077259258,
+                        25.10084901946
+                    ],
+                    [
+                        72.48092817809,
+                        25.10070015193
+                    ],
+                    [
+                        72.48099132986,
+                        25.10084173280
+                    ],
+                    [
+                        72.48077259258,
+                        25.10084901946
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "man_made": "beacon",
+                "level": "0",
+                "ref": "6",
+                "uid": "67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48076378586,
+                    25.10095535331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "midpt",
+                "ref": "11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48075791471,
+                    25.10067888512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "name": "destination",
+                "refpt": "11"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.48077259258,
+                        25.10084901946
+                    ],
+                    [
+                        72.48060086141,
+                        25.10070679780
+                    ],
+                    [
+                        72.48092817809,
+                        25.10070015193
+                    ],
+                    [
+                        72.48077259258,
+                        25.10084901946
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "man_made": "beacon",
+                "level": "0",
+                "ref": "2",
+                "uid": "0x845c6c90e642d1353bc5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48134796542,
+                    25.10096864503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "midpt",
+                "ref": "7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48062874938,
+                    25.10094737828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "ref": "1"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            72.48140667693,
+                            25.10098459510
+                        ],
+                        [
+                            72.48038509659,
+                            25.10098725345
+                        ],
+                        [
+                            72.48055242441,
+                            25.10065230161
+                        ],
+                        [
+                            72.48097514731,
+                            25.10063900985
+                        ],
+                        [
+                            72.48108963476,
+                            25.10090750309
+                        ],
+                        [
+                            72.48130690399,
+                            25.10090119586
+                        ],
+                        [
+                            72.48142722596,
+                            25.10090750309
+                        ],
+                        [
+                            72.48142179963,
+                            25.10093411282
+                        ],
+                        [
+                            72.48140667693,
+                            25.10098459510
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "start",
+                "level": "0",
+                "refpt": "2"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.48130690399,
+                        25.10090119586
+                    ],
+                    [
+                        72.48129806063,
+                        25.10093940324
+                    ],
+                    [
+                        72.48142179963,
+                        25.10093411282
+                    ],
+                    [
+                        72.48142722596,
+                        25.10090750309
+                    ],
+                    [
+                        72.48130690399,
+                        25.10090119586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "man_made": "beacon",
+                "level": "0",
+                "ref": "12",
+                "uid": "0x21411274c3decdb0ddec"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48095065355301,
+                    25.100676078977287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.48048197059,
+                        25.10092611151
+                    ],
+                    [
+                        72.48076972635,
+                        25.10092335377
+                    ],
+                    [
+                        72.48102798767,
+                        25.10092079482
+                    ],
+                    [
+                        72.48099132986,
+                        25.10084173280
+                    ],
+                    [
+                        72.48092817809,
+                        25.10070015193
+                    ],
+                    [
+                        72.48060086141,
+                        25.10070679780
+                    ],
+                    [
+                        72.48052186282,
+                        25.10085167216
+                    ],
+                    [
+                        72.48048197059,
+                        25.10092611151
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "midpt",
+                "ref": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48090762907,
+                    25.10095269497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "name": "room 2",
+                "refpt": "7"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.48052186282,
+                        25.10085167216
+                    ],
+                    [
+                        72.48077259258,
+                        25.10084901946
+                    ],
+                    [
+                        72.48076972635,
+                        25.10092335377
+                    ],
+                    [
+                        72.48048197059,
+                        25.10092611151
+                    ],
+                    [
+                        72.48052186282,
+                        25.10085167216
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "name": "room 1",
+                "refpt": "5"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.48077259258,
+                        25.10084901946
+                    ],
+                    [
+                        72.48099132986,
+                        25.10084173280
+                    ],
+                    [
+                        72.48102798767,
+                        25.10092079482
+                    ],
+                    [
+                        72.48076972635,
+                        25.10092335377
+                    ],
+                    [
+                        72.48077259258,
+                        25.10084901946
+                    ]
+                ]
+            }
+        }
+    ]
+}

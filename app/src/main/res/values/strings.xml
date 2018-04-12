@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MapTestApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="start_title">Start</string>
+    <string name="Left_turn">Please Turn Left</string>
+    <string name="Right_turn">Please Turn Right</string>
+    <string name="Straight">Please Continue Straight</string>
+    <string name="Destination">You have reached your destination</string>
+    <string name="wrong_node">You have reached the wrong node</string>
+    <string-array name="country_arrays2"><item>Destination</item></string-array>
+</resources>

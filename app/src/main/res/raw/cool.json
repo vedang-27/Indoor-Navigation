@@ -1,0 +1,449 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "name": "seminar hall",
+                "refpt": "11"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.47921608669,
+                        25.10132111909
+                    ],
+                    [
+                        72.47972849356,
+                        25.10130041992
+                    ],
+                    [
+                        72.47971600728,
+                        25.09974115168
+                    ],
+                    [
+                        72.47921608669,
+                        25.09975183896
+                    ],
+                    [
+                        72.47921608669,
+                        25.10132111909
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "ref": "1"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            72.47921608669,
+                            25.10216135530
+                        ],
+                        [
+                            72.48016442221,
+                            25.10216135530
+                        ],
+                        [
+                            72.48130378934,
+                            25.10216135530
+                        ],
+                        [
+                            72.48214978648,
+                            25.10216135530
+                        ],
+                        [
+                            72.48214978648,
+                            25.10182155459
+                        ],
+                        [
+                            72.48214978648,
+                            25.10137054491
+                        ],
+                        [
+                            72.48214978648,
+                            25.09946763647
+                        ],
+                        [
+                            72.47921608669,
+                            25.09946763647
+                        ],
+                        [
+                            72.47921608669,
+                            25.09975183896
+                        ],
+                        [
+                            72.47921608669,
+                            25.10132111909
+                        ],
+                        [
+                            72.47921608669,
+                            25.10216135530
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "midpt",
+                "ref": "7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48127649910,
+                    25.10145086183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "name": "EXIT",
+                "refpt": "9"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.48016442221,
+                        25.10216135530
+                    ],
+                    [
+                        72.48015759965,
+                        25.10192658400
+                    ],
+                    [
+                        72.48129696678,
+                        25.10192658400
+                    ],
+                    [
+                        72.48130378934,
+                        25.10216135530
+                    ],
+                    [
+                        72.48016442221,
+                        25.10216135530
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "name": "LAKSHAYA",
+                "refpt": "5"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.47972849356,
+                        25.10130041992
+                    ],
+                    [
+                        72.48059833920,
+                        25.10129705369
+                    ],
+                    [
+                        72.48059523393,
+                        25.10063904286
+                    ],
+                    [
+                        72.47972538829,
+                        25.10064240910
+                    ],
+                    [
+                        72.47972849356,
+                        25.10130041992
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "beacon",
+                "ref": "4",
+                "uid": "0x47ba187d558c26d647ad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48078186709,
+                    25.10051794365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "name": "FSOCIETY",
+                "refpt": "3"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.47971911255,
+                        25.10039916735
+                    ],
+                    [
+                        72.48058895818,
+                        25.10039580110
+                    ],
+                    [
+                        72.48058585292,
+                        25.09973778542
+                    ],
+                    [
+                        72.47971600728,
+                        25.09974115168
+                    ],
+                    [
+                        72.47971911255,
+                        25.10039916735
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "beacon",
+                "ref": "8",
+                "uid": "0x21411274c3decdb0ddec"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48166538830,
+                    25.10147866073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "midpt",
+                "ref": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48077163325,
+                    25.10010090977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "name": "COFFEE MACHINE",
+                "refpt": "8"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.48214978648,
+                        25.10137054491
+                    ],
+                    [
+                        72.48180865860,
+                        25.10137054491
+                    ],
+                    [
+                        72.48180865860,
+                        25.10182773279
+                    ],
+                    [
+                        72.48214978648,
+                        25.10182155459
+                    ],
+                    [
+                        72.48214978648,
+                        25.10137054491
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "beacon",
+                "ref": "6",
+                "uid": "0xf262d72a1aea33ddbed4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48077845581,
+                    25.10146321518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "midpt",
+                "ref": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48078186709,
+                    25.10096895647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "name": "TECHNO KRATZ",
+                "refpt": "5"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.48096167086,
+                        25.10129887536
+                    ],
+                    [
+                        72.48183151650,
+                        25.10129550914
+                    ],
+                    [
+                        72.48182841123,
+                        25.10063749829
+                    ],
+                    [
+                        72.48095856559,
+                        25.10064086454
+                    ],
+                    [
+                        72.48096167086,
+                        25.10129887536
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "beacon",
+                "ref": "11",
+                "uid": "0x845c6c90e642d1353bc5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.47977895111,
+                    25.10052412192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "midpt",
+                "ref": "9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48077845240,
+                    25.10174741612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "beacon",
+                "ref": "2",
+                "uid": "188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48077163325,
+                    25.09971785517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "name": "INFINITYS",
+                "refpt": "3"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        72.48095228984,
+                        25.10039762278
+                    ],
+                    [
+                        72.48182213548,
+                        25.10039425653
+                    ],
+                    [
+                        72.48181903021,
+                        25.09973624084
+                    ],
+                    [
+                        72.48094918457,
+                        25.09973960711
+                    ],
+                    [
+                        72.48095228984,
+                        25.10039762278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "0",
+                "man_made": "midpt",
+                "ref": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.48024629631,
+                    25.10052412192
+                ]
+            }
+        }
+    ]
+}
